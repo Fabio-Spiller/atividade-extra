@@ -1,4 +1,4 @@
-Alocador de Memória Buddy Binário em Java (Simulação
+Alocador de Memória Buddy Binário em Java Simulação
 
 Ao clonar essa pasta o BuddyAllocator.java e o ProgramaEntrada.txt vão estar no mesmo local.
 
