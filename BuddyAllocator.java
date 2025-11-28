@@ -1,4 +1,3 @@
-// Importações de I/O permitidas (código de suporte)
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
